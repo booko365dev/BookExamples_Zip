@@ -1,2 +1,2 @@
 # BookExamples_Zip
-All examples for the book Office354 Developer Recipes - Zip files
+All source code for the book "Office 365: The best recipes for developers" - Zip files
